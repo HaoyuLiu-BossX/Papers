@@ -1,1 +1,4 @@
-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
+# Reading Lists
+
+## PPR related:
+FastPPR -> BiPPR -> HubPPR -> FORA -> TopPPR -> SpeedPPR -> Edge-Push
